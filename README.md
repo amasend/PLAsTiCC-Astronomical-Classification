@@ -8,3 +8,7 @@ The human eye has been the arbiter for the classification of astronomical source
 The Photometric LSST Astronomical Time-Series Classification Challenge (PLAsTiCC) asks Kagglers to help prepare to classify the data from this new survey. Competitors will classify astronomical sources that vary with time into different classes, scaling from a small training set to a very large test set of the type the LSST will discover.
 
 More background information is available here: https://arxiv.org/abs/1810.00001
+
+# Be aware
+This repository is only a basic work trying to build classification model from scratch based on my own understanding.
+This repository is not a full work or even approved correct approach.
