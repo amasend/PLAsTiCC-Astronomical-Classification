@@ -12,3 +12,13 @@ More background information is available here: https://arxiv.org/abs/1810.00001
 # Be aware
 This repository is only a basic work trying to build classification model from scratch based on my own understanding.
 This repository is not a full work or even approved correct approach.
+
+# Analysis_models
+Jupyter notebook contains data exploratory analysis and ML algorithm veryfication.
+1. Load data.
+2. Clean data.
+3. Feature engineering.
+4. Merging.
+5. ML algorithms veryfication (k-fold cross validation)
+6. Deep Learning approach
+7. Ensamble methods (combining few best algorithms into one better)
